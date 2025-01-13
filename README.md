@@ -1,3 +1,3 @@
-# CODSOFT_Task03
+# Password Generator
 
-This is my Task03 of CodSoft Internship Training
+This is Password Generator in which user can generate random password by appropriate length.
